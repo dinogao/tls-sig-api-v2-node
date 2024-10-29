@@ -4,18 +4,18 @@
   "main": "TLSSigAPI.js",
   "author": "weijunyi",
   "license": "MIT",
-  "repository": "https://github.com/tencentyun/tls-sig-api-v2-node.git",
-  "description": "tls-sig-api-v2 适用于腾讯云通信生成用户账号签名。",
+  "repository": "https://github.com/tencentcloud/tls-sig-api-v2-node.git",
+  "description": "tls-sig-api-v2 Applicable to Tencent Cloud TRTC and CHAT services to generate user account signatures",
   "main": "TLSSigAPIv2.js",
   "author": "weijunyi",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tencentyun/tls-sig-api-v2-node.git"
+    "url": "https://github.com/tencentcloud/tls-sig-api-v2-node.git"
   },
-  "keywords": [ "tencent", "im" ],
+  "keywords": [ "tencent", "chat" ],
   "bugs": {
-      "url": "https://github.com/tencentyun/tls-sig-api-v2-node/issues"
+      "url": "https://github.com/tencentcloud/tls-sig-api-v2-node/issues"
   },
-  "homepage": "https://github.com/tencentyun/tls-sig-api-v2-node"
+  "homepage": "https://github.com/tencentcloud/tls-sig-api-v2-node"
 }
